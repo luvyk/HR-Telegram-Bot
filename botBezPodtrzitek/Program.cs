@@ -16,7 +16,7 @@
         static async Task Main()
         {
             // Initialize bot client with token
-            var bot = new TelegramBotClient("8447523211:AAFi3VqEC25BcB6QEkPXZNzNRgs1ox8Zjro");
+            var bot = new TelegramBotClient("place for token");
 
             using var cts = new CancellationTokenSource();
 
